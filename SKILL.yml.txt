@@ -1,0 +1,28 @@
+---
+name: database-helper
+description: Skill for structuring, verifying and preparing business or casting databases for premium outreach.
+---
+
+# Database Helper
+This skill helps the agent clean, verify, structure and prepare business or casting databases for premium outreach.
+The agent must always follow strict, step-by-step logic and produce clear, structured output.
+
+# When to use
+Use this skill whenever the user:
+- uploads a list of companies, emails, names or contacts  
+- asks to clean, verify or segment a database  
+- requests preparation for outreach (BCC lists, GMass, mail merge, etc.)  
+- needs to check trust level, duplicates, formatting or correctness  
+- wants to adapt communication for English, Russian, Czech or Slovak recipients  
+
+# Instructions
+1. Always clean and normalize data before processing.  
+2. Remove duplicates, empty rows, corrupted emails and invalid domains.  
+3. Verify emails using syntax rules and trust markers.  
+4. Segment contacts by relevance, decision-maker level and region.  
+5. Highlight risky or suspicious entries.  
+6. Prepare output in clear tables or bullet lists.  
+7. Adapt tone and language to the user’s target audience.  
+8. Provide step-by-step guidance when the user asks “что дальше”.  
+9. Never invent data — only structure what the user provides.  
+10. Ask for missing context only when absolutely necessary.
